@@ -16,7 +16,7 @@ const cardDataBig = ref([{
 </script>
 
 <template>
-    <div class="w-full h-auto bg-bg-1">
+    <div class="w-full h-auto ">
         <!-- Início container 1 -->
         <Header></Header>
         <div class="flex flex-col justify-start w-full h-auto mb-32">
